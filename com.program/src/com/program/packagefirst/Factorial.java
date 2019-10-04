@@ -11,7 +11,7 @@ public class Factorial {
 		int factorial = fact(num);
 		System.out.println("Factorial of the number"+ factorial);
 		
-		//123
+		//1234
 	}
 
 	private static int fact(int n) {
